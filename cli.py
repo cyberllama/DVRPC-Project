@@ -3,9 +3,6 @@ import sqlite3
 from db import GenerateDatabase
 from report import GenerateReport
 
-connection = sqlite3.connect('./db/mcd_crashes.db')
-cursor = connection.cursor()
-
 MIN_YEAR = 2015
 
 def main():
@@ -21,6 +18,8 @@ def initialize_db():
     click.echo(click.style("Database succesfully initialized", fg='green'))
 
 def get_max_year():
+    connection = sqlite3.connect('./db/mcd_crashes.db')
+    cursor = connection.cursor()
     click.echo(click.style("Determining most recently available year from crash data...", fg='cyan'))
     query = "SELECT MAX(Crash_Year) FROM mcd_crash"
     max_year = cursor.execute(query).fetchone()[0]
