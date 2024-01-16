@@ -1,0 +1,365 @@
+COUNTY,MCD_NAME,MCD_ID,YEAR,POPULATION_ESTIMATE,TOTAL_KSI_RATE,PEDESTRIAN_KSI_RATE,BICYCLIST_KSI_RATE,TOTAL_KSI_RATE_5YR,PEDESTRIAN_KSI_RATE_5YR,BICYCLIST_KSI_RATE_5YR
+Burlington County,Bass River Township,3400503370,2020,1416,2754.2,70.6,0.0,3500.6,28.1,14.1
+Burlington County,Beverly City,3400505740,2020,2479,242.0,0.0,0.0,337.6,8.0,8.0
+Burlington County,Bordentown City,3400506670,2020,3792,0.0,0.0,0.0,299.5,52.6,5.3
+Burlington County,Bordentown Township,3400506700,2020,11914,805.8,25.2,0.0,1124.3,20.2,11.8
+Burlington County,Burlington City,3400508920,2020,9856,558.0,50.7,10.1,1140.7,63.0,12.2
+Burlington County,Burlington Township,3400508950,2020,22547,851.6,22.2,4.4,988.3,30.1,3.5
+Burlington County,Chesterfield Township,3400512670,2020,7573,369.7,0.0,26.4,519.3,2.6,7.9
+Burlington County,Cinnaminson Township,3400512940,2020,16646,684.8,30.0,0.0,495.5,12.1,1.2
+Burlington County,Delanco Township,3400517080,2020,4496,111.2,22.2,22.2,188.1,9.0,17.9
+Burlington County,Delran Township,3400517440,2020,16566,549.3,24.1,18.1,658.8,19.3,8.4
+Burlington County,Eastampton Township,3400518790,2020,6656,270.4,0.0,0.0,611.7,9.7,9.7
+Burlington County,Edgewater Park Township,3400520050,2020,8647,427.9,46.3,11.6,421.4,25.3,18.4
+Burlington County,Evesham Township,3400522110,2020,45701,472.6,6.6,2.2,556.9,8.4,7.9
+Burlington County,Florence Township,3400523850,2020,12592,706.8,15.9,23.8,799.7,33.5,23.9
+Burlington County,Hainesport Township,3400529010,2020,5976,468.5,0.0,16.7,977.7,30.0,6.7
+Burlington County,Lumberton Township,3400542060,2020,12183,459.7,8.2,24.6,602.9,16.3,18.0
+Burlington County,Mansfield Township,3400543290,2020,8533,808.6,11.7,0.0,1420.6,18.7,4.7
+Burlington County,Maple Shade Township,3400543740,2020,18458,769.3,21.7,5.4,1004.2,38.7,7.5
+Burlington County,Medford Township,3400545120,2020,23381,615.9,4.3,25.7,745.1,8.6,18.8
+Burlington County,Medford Lakes Borough,3400545210,2020,3914,127.7,0.0,0.0,177.0,10.1,20.2
+Burlington County,Moorestown Township,3400547880,2020,20493,707.6,14.6,39.0,1098.3,21.5,24.4
+Burlington County,Mount Holly Township,3400548900,2020,9597,656.5,114.6,0.0,1000.9,81.7,16.8
+Burlington County,Mount Laurel Township,3400549020,2020,42408,827.7,16.5,28.3,1227.8,14.9,16.3
+Burlington County,New Hanover Township,3400551510,2020,7787,0.0,0.0,0.0,26.2,2.6,0.0
+Burlington County,North Hanover Township,3400553070,2020,7470,174.0,0.0,0.0,461.0,0.0,2.7
+Burlington County,Palmyra Borough,3400555800,2020,7140,784.3,56.0,14.0,719.3,39.0,22.3
+Burlington County,Pemberton Borough,3400557480,2020,1324,528.7,0.0,0.0,1215.9,15.0,0.0
+Burlington County,Pemberton Township,3400557510,2020,26966,641.5,11.1,7.4,787.1,22.8,19.2
+Burlington County,Riverside Township,3400563510,2020,7816,153.5,0.0,0.0,178.2,15.3,7.6
+Burlington County,Riverton Borough,3400563660,2020,2677,224.1,0.0,0.0,148.5,14.9,7.4
+Burlington County,Shamong Township,3400566810,2020,6367,612.5,0.0,0.0,610.5,0.0,15.7
+Burlington County,Southampton Township,3400568610,2020,10095,842.0,9.9,9.9,1261.2,21.7,7.9
+Burlington County,Springfield Township,3400569990,2020,3257,1903.6,0.0,0.0,2934.5,18.3,6.1
+Burlington County,Tabernacle Township,3400572060,2020,6794,574.0,29.4,0.0,618.4,5.9,5.9
+Burlington County,Washington Township,3400577150,2020,711,2250.4,0.0,0.0,1893.3,0.0,57.4
+Burlington County,Westampton Township,3400578200,2020,8649,1237.1,57.8,23.1,1863.2,57.8,11.6
+Burlington County,Willingboro Township,3400581440,2020,32005,662.4,25.0,0.0,728.4,33.4,13.2
+Burlington County,Woodland Township,3400582420,2020,1761,1760.4,56.8,0.0,2022.6,90.4,11.3
+Burlington County,Wrightstown Borough,3400582960,2020,776,902.1,0.0,0.0,330.5,25.4,0.0
+Camden County,Audubon Park Borough,3400702230,2020,1002,0.0,0.0,0.0
+Camden County,Barrington Borough,3400703250,2020,6642,572.1,15.1,0.0,808.8,18.0,9.0
+Camden County,Bellmawr Borough,3400704750,2020,11359,2095.3,44.0,26.4,2142.4,35.1,28.1
+Camden County,Berlin Borough,3400705440,2020,7719,842.1,25.9,38.9,1178.9,47.5,15.8
+Camden County,Berlin Township,3400705470,2020,5691,1001.6,17.6,17.6,1492.2,35.7,17.8
+Camden County,Brooklawn Borough,3400708170,2020,1898,632.2,0.0,52.7,885.8,105.5,21.1
+Camden County,Camden City,3400710000,2020,73775,630.3,74.6,17.6,1114.3,127.1,46.1
+Camden County,Cherry Hill Township,3400712280,2020,71459,1009.0,28.0,8.4,1465.0,23.6,15.2
+Camden County,Chesilhurst Borough,3400712550,2020,1614,495.7,0.0,0.0,568.0,24.7,0.0
+Camden County,Clementon Borough,3400713420,2020,4957,1694.6,20.2,80.7,1880.8,97.3,36.5
+Camden County,Collingswood Borough,3400714260,2020,13881,684.4,72.0,36.0,714.3,54.7,38.9
+Camden County,Gibbsboro Borough,3400726070,2020,2305,520.6,0.0,43.4,972.3,35.7,26.8
+Camden County,Gloucester Township,3400726760,2020,63887,621.4,18.8,12.5,671.4,23.5,13.2
+Camden County,Gloucester City,3400726820,2020,11382,1467.2,61.5,43.9,1802.5,51.5,32.0
+Camden County,Haddon Township,3400728740,2020,14541,515.8,27.5,34.4,682.5,31.7,31.7
+Camden County,Haddonfield Borough,3400728770,2020,11317,8.8,0.0,0.0,252.5,30.0,12.4
+Camden County,Haddon Heights Borough,3400728800,2020,7529,743.8,13.3,0.0,970.1,26.7,24.0
+Camden County,Hi-Nella Borough,3400732220,2020,858,0.0,0.0,0.0
+Camden County,Laurel Springs Borough,3400739210,2020,1866,482.3,214.4,53.6
+Camden County,Lawnside Borough,3400739420,2020,2882,1110.3,69.4,0.0,1349.8,34.6,0.0
+Camden County,Lindenwold Borough,3400740440,2020,17263,845.7,23.2,17.4,846.3,47.4,13.9
+Camden County,Magnolia Borough,3400742630,2020,4273,936.1,70.2,23.4,1766.0,84.1,23.4
+Camden County,Merchantville Borough,3400745510,2020,3700,351.4,27.0,0.0,599.6,32.4,10.8
+Camden County,Mount Ephraim Borough,3400748750,2020,4587,588.6,65.4,87.2,847.7,60.9,52.2
+Camden County,Oaklyn Borough,3400753880,2020,3955,50.6,0.0,0.0
+Camden County,Pennsauken Township,3400757660,2020,35899,855.2,33.4,13.9,1193.0,57.1,11.8
+Camden County,Pine Hill Borough,3400758770,2020,10417,470.4,38.4,28.8,545.4,42.2,17.3
+Camden County,Runnemede Borough,3400765160,2020,8300,722.9,24.1,12.0,809.5,33.7,24.1
+Camden County,Somerdale Borough,3400768340,2020,5477,1040.7,91.3,18.3,1114.5,80.7,14.7
+Camden County,Stratford Borough,3400771220,2020,6951,776.9,71.9,0.0,1008.7,71.8,20.1
+Camden County,Tavistock Borough,3400772240,2020,6,0.0,0.0,0.0,11111.1,0.0,0.0
+Camden County,Voorhees Township,3400776220,2020,29133,511.4,13.7,27.5,621.8,11.0,11.0
+Camden County,Waterford Township,3400777630,2020,10681,674.1,0.0,0.0,553.6,1.9,11.2
+Camden County,Winslow Township,3400781740,2020,38609,1038.6,23.3,23.3,1123.1,22.7,12.4
+Gloucester County,Clayton Borough,3401513360,2020,8738,480.7,34.3,0.0,298.0,16.2,11.5
+Gloucester County,Deptford Township,3401517710,2020,30337,1259.2,9.9,9.9,1537.6,24.3,10.5
+Gloucester County,East Greenwich Township,3401519180,2020,10712,494.8,0.0,0.0,381.3,1.9,0.0
+Gloucester County,Elk Township,3401521060,2020,4172,1677.9,24.0,47.9,2087.1,14.5,14.5
+Gloucester County,Franklin Township,3401524840,2020,16299,1110.5,6.1,6.1,1329.2,28.1,24.4
+Gloucester County,Glassboro Borough,3401526340,2020,20431,626.5,53.8,29.4,898.3,65.0,31.0
+Gloucester County,Greenwich Township,3401528185,2020,4795,667.4,62.6,0.0,582.6,33.3,12.5
+Gloucester County,Harrison Township,3401530180,2020,13116,686.2,15.2,0.0,708.0,12.3,1.5
+Gloucester County,Logan Township,3401541160,2020,5874,2655.8,17.0,34.0,2102.9,16.9,10.2
+Gloucester County,Mantua Township,3401543440,2020,14846,478.2,6.7,0.0,625.0,5.4,6.7
+Gloucester County,Monroe Township,3401547250,2020,36858,719.0,13.6,13.6,777.4,16.8,15.2
+Gloucester County,National Park Borough,3401549680,2020,2943,135.9,0.0,34.0,135.3,0.0,13.5
+Gloucester County,Newfield Borough,3401551390,2020,1543,194.4,0.0,0.0
+Gloucester County,Paulsboro Borough,3401557150,2020,5854,461.2,68.3,17.1,428.3,40.8,17.0
+Gloucester County,Pitman Borough,3401559070,2020,8723,160.5,11.5,11.5,230.2,18.2,11.4
+Gloucester County,South Harrison Township,3401569030,2020,3123,1665.1,0.0,0.0,815.5,6.4,12.7
+Gloucester County,Swedesboro Borough,3401571850,2020,2568,77.9,77.9,0.0,147.4,23.3,15.5
+Gloucester County,Washington Township,3401577180,2020,47741,534.1,12.6,6.3,724.4,17.5,8.8
+Gloucester County,Wenonah Borough,3401578110,2020,2212,180.8,0.0,0.0
+Gloucester County,West Deptford Township,3401578800,2020,20971,610.4,19.1,14.3,684.0,12.3,19.0
+Gloucester County,Westville Borough,3401580120,2020,4144,627.4,24.1,48.3,399.0,9.6,9.6
+Gloucester County,Woodbury City,3401582120,2020,9789,735.5,71.5,40.9,1020.2,77.2,32.5
+Gloucester County,Woodbury Heights Borough,3401582180,2020,2964,371.1,33.7,67.5,645.5,20.2,20.2
+Gloucester County,Woolwich Township,3401582840,2020,12957,493.9,7.7,15.4,732.6,4.7,7.8
+Mercer County,East Windsor Township,3402119780,2020,27281,553.5,3.7,3.7,703.8,16.9,7.3
+Mercer County,Ewing Township,3402122185,2020,36798,573.4,43.5,40.8,789.8,52.9,23.1
+Mercer County,Hamilton Township,3402129310,2020,87093,591.3,25.3,14.9,953.5,31.4,16.3
+Mercer County,Hightstown Borough,3402131620,2020,5302,245.2,94.3,56.6,309.8,56.0,41.1
+Mercer County,Hopewell Borough,3402133150,2020,1906,209.9,0.0,0.0,125.6,0.0,0.0
+Mercer County,Hopewell Township,3402133180,2020,17725,394.9,0.0,33.9,743.1,11.2,22.3
+Mercer County,Lawrence Township,3402139510,2020,32410,617.1,9.3,15.4,943.9,23.3,11.7
+Mercer County,Pennington Borough,3402157600,2020,2575,271.8,0.0,77.7,398.1,31.2,15.6
+Mercer County,Princeton,3402160900,2020,31168,311.2,28.9,41.7,549.3,63.5,43.4
+Mercer County,Robbinsville Township,3402163850,2020,14631,1059.4,20.5,0.0,1125.7,13.9,13.9
+Mercer County,Trenton City,3402174000,2020,83148,921.2,105.8,19.2,864.5,104.2,21.6
+Mercer County,West Windsor Township,3402180240,2020,27888,677.7,14.3,10.8,930.7,13.6,18.6
+Bucks County,Bedminster Township,4201704976,2020,7238,469.7,13.8,0.0,599.4,8.4,8.4
+Bucks County,Bensalem Township,4201705616,2020,60591,800.4,34.7,1.7,990.1,40.4,7.9
+Bucks County,Bridgeton Township,4201708592,2020,1289,620.6,0.0,0.0,482.3,0.0,0.0
+Bucks County,Bristol Borough,4201708760,2020,9575,104.4,41.8,0.0,250.4,29.2,12.5
+Bucks County,Bristol Township,4201708768,2020,53492,663.7,22.4,16.8,657.0,27.6,16.4
+Bucks County,Buckingham Township,4201709816,2020,20266,236.8,0.0,14.8,568.6,5.9,7.9
+Bucks County,Chalfont Borough,4201712504,2020,4286,233.3,0.0,0.0,199.6,9.5,0.0
+Bucks County,Doylestown Borough,4201719784,2020,8230,352.4,36.5,12.2,384.5,31.4,12.1
+Bucks County,Doylestown Township,4201719792,2020,17356,455.2,17.3,0.0,636.2,12.6,6.9
+Bucks County,Dublin Borough,4201720104,2020,2131,93.9,46.9,0.0,186.6,9.3,9.3
+Bucks County,Durham Township,4201720480,2020,1133,264.8,0.0,0.0,599.1,0.0,0.0
+Bucks County,East Rockhill Township,4201721760,2020,5732,331.5,0.0,0.0,582.9,7.0,7.0
+Bucks County,Falls Township,4201725112,2020,33529,495.1,26.8,3.0,648.1,19.7,6.6
+Bucks County,Haycock Township,4201733224,2020,2212,949.4,0.0,0.0,724.4,0.0,9.1
+Bucks County,Hilltown Township,4201734952,2020,15862,725.0,0.0,0.0,889.2,8.9,8.9
+Bucks County,Hulmeville Borough,4201736192,2020,999,1001.0,0.0,0.0,1019.2,0.0,0.0
+Bucks County,Ivyland Borough,4201737304,2020,930,215.1,0.0,0.0,425.9,42.6,0.0
+Bucks County,Langhorne Borough,4201741392,2020,1581,316.3,0.0,0.0,543.4,63.2,12.6
+Bucks County,Langhorne Manor Borough,4201741416,2020,1414,636.5,141.4,0.0,835.8,27.9,13.9
+Bucks County,Lower Makefield Township,4201744968,2020,32870,155.2,3.0,6.1,295.1,3.7,5.5
+Bucks County,Lower Southampton Township,4201745112,2020,19184,406.6,10.4,0.0,458.7,20.9,4.2
+Bucks County,Middletown Township,4201749120,2020,44923,409.6,11.1,0.0,533.9,12.9,5.3
+Bucks County,Milford Township,4201749384,2020,10065,715.4,0.0,0.0,1150.9,6.0,6.0
+Bucks County,Morrisville Borough,4201751144,2020,8521,363.8,11.7,0.0,332.3,16.4,4.7
+Bucks County,New Britain Borough,4201753296,2020,3260,61.3,0.0,0.0,310.6,0.0,0.0
+Bucks County,New Britain Township,4201753304,2020,11531,277.5,0.0,0.0,510.5,8.7,3.5
+Bucks County,New Hope Borough,4201753712,2020,2533,118.4,0.0,0.0,301.2,55.5,15.9
+Bucks County,Newtown Borough,4201754184,2020,2244,311.9,89.1,44.6,330.2,62.5,8.9
+Bucks County,Newtown Township,4201754192,2020,19578,357.5,5.1,5.1,448.6,7.2,7.2
+Bucks County,Nockamixon Township,4201754576,2020,3378,710.5,0.0,0.0,737.8,0.0,0.0
+Bucks County,Northampton Township,4201754688,2020,39169,242.5,7.7,7.7,285.1,5.6,4.6
+Bucks County,Penndel Borough,4201758936,2020,2157,973.6,92.7,0.0,1320.5,92.3,18.5
+Bucks County,Perkasie Borough,4201759384,2020,8751,182.8,22.9,11.4,284.8,11.6,4.6
+Bucks County,Plumstead Township,4201761616,2020,14488,538.4,6.9,20.7,639.4,14.1,11.3
+Bucks County,Quakertown Borough,4201763048,2020,8750,720.0,45.7,0.0,875.9,46.0,13.8
+Bucks County,Richland Township,4201764536,2020,13515,554.9,7.4,0.0,799.9,6.0,4.5
+Bucks County,Richlandtown Borough,4201764584,2020,1287,155.4,0.0,0.0,246.5,15.4,15.4
+Bucks County,Riegelsville Borough,4201764856,2020,852,0.0,0.0,0.0
+Bucks County,Sellersville Borough,4201769248,2020,4282,327.0,46.7,0.0,290.1,32.8,4.7
+Bucks County,Silverdale Borough,4201770744,2020,854,117.1,0.0,0.0,445.1,23.4,0.0
+Bucks County,Solebury Township,4201771752,2020,8553,374.1,23.4,0.0,457.6,7.0,7.0
+Bucks County,Springfield Township,4201773016,2020,5041,1229.9,0.0,0.0,1154.2,15.9,0.0
+Bucks County,Telford Borough (part) *,4201776304,2020,2196,455.4,0.0,0.0,255.0,9.1,0.0
+Bucks County,Tinicum Township,4201776784,2020,3965,807.1,0.0,25.2,762.5,10.1,15.1
+Bucks County,Trumbauersville Borough,4201777704,2020,935,320.9,0.0,0.0,255.0,21.3,0.0
+Bucks County,Tullytown Borough,4201777744,2020,2183,458.1,0.0,0.0,648.8,45.7,36.6
+Bucks County,Upper Makefield Township,4201779128,2020,8600,302.3,0.0,0.0,353.9,11.8,4.7
+Bucks County,Upper Southampton Township,4201779296,2020,14946,394.8,0.0,6.7,699.1,10.7,10.7
+Bucks County,Warminster Township,4201780952,2020,32414,385.6,21.6,6.2,524.6,27.1,8.0
+Bucks County,Warrington Township,4201781048,2020,24581,321.4,8.1,8.1,545.7,13.1,5.8
+Bucks County,Warwick Township,4201781144,2020,14753,189.8,0.0,6.8,207.2,5.5,4.1
+Bucks County,West Rockhill Township,4201783960,2020,5221,976.8,0.0,19.2,1402.4,0.0,3.8
+Bucks County,Wrightstown Township,4201786624,2020,3100,967.7,0.0,0.0,1135.9,0.0,6.5
+Bucks County,Yardley Borough,4201786920,2020,2514,79.6,0.0,0.0,152.2,0.0,8.0
+Chester County,Atglen Borough,4202903384,2020,1413,141.5,0.0,0.0,312.2,0.0,14.2
+Chester County,Avondale Borough,4202903656,2020,1400,142.9,0.0,0.0,585.0,28.5,14.3
+Chester County,Birmingham Township,4202906544,2020,4199,214.3,0.0,0.0,451.8,9.5,0.0
+Chester County,Caln Township,4202910824,2020,14271,742.8,7.0,0.0,771.3,23.9,2.8
+Chester County,Charlestown Township,4202912744,2020,6296,555.9,0.0,15.9,641.0,3.3,6.6
+Chester County,Coatesville City,4202914712,2020,13073,428.4,38.2,7.6,436.6,48.9,10.7
+Chester County,Downingtown Borough,4202919752,2020,7904,215.1,12.7,25.3,419.7,17.7,12.6
+Chester County,East Bradford Township,4202920824,2020,9905,181.7,0.0,0.0,337.0,12.1,4.0
+Chester County,East Brandywine Township,4202920864,2020,9091,231.0,11.0,0.0,240.2,2.3,0.0
+Chester County,East Caln Township,4202920920,2020,4856,823.7,61.8,0.0,971.8,32.9,0.0
+Chester County,East Coventry Township,4202921008,2020,6785,456.9,0.0,0.0,396.0,0.0,0.0
+Chester County,East Fallowfield Township,4202921104,2020,7608,223.4,0.0,0.0,258.4,0.0,0.0
+Chester County,East Goshen Township,4202921192,2020,18158,77.1,0.0,5.5,172.8,5.5,2.2
+Chester County,East Marlborough Township,4202921480,2020,7560,264.6,0.0,0.0,388.3,5.4,2.7
+Chester County,East Nantmeal Township,4202921576,2020,1854,647.2,0.0,0.0,1118.1,0.0,0.0
+Chester County,East Nottingham Township,4202921624,2020,9100,329.7,0.0,0.0,394.2,4.4,2.2
+Chester County,East Pikeland Township,4202921696,2020,7699,233.8,13.0,0.0,424.0,8.0,0.0
+Chester County,Easttown Township,4202921928,2020,10635,272.7,9.4,9.4,463.5,7.5,7.5
+Chester County,East Vincent Township,4202922000,2020,7348,163.3,0.0,0.0,352.0,5.5,2.8
+Chester County,East Whiteland Township,4202922056,2020,13204,446.8,7.6,0.0,710.7,6.5,3.3
+Chester County,Elk Township,4202923032,2020,1708,117.1,0.0,0.0,305.1,0.0,11.7
+Chester County,Elverson Borough,4202923440,2020,1316,76.0,0.0,0.0,305.4,0.0,0.0
+Chester County,Franklin Township,4202927376,2020,4539,264.4,0.0,0.0,340.1,4.4,0.0
+Chester County,Highland Township,4202934448,2020,1292,1083.6,0.0,0.0,1323.2,0.0,0.0
+Chester County,Honey Brook Borough,4202935528,2020,1762,227.0,0.0,0.0,305.7,11.3,0.0
+Chester County,Honey Brook Township,4202935536,2020,8310,385.1,0.0,0.0,351.4,2.4,0.0
+Chester County,Kennett Township,4202939344,2020,8545,479.8,11.7,0.0,450.2,4.8,2.4
+Chester County,Kennett Square Borough,4202939352,2020,6201,209.6,16.1,0.0,287.6,45.2,3.2
+Chester County,London Britain Township,4202944440,2020,3241,185.1,0.0,30.9,370.8,0.0,6.2
+Chester County,Londonderry Township,4202944456,2020,2555,469.7,0.0,0.0,542.4,0.0,0.0
+Chester County,London Grove Township,4202944480,2020,8849,452.0,0.0,0.0,511.3,6.8,4.6
+Chester County,Lower Oxford Township,4202945040,2020,5094,667.5,0.0,0.0,592.2,0.0,3.9
+Chester County,Malvern Borough,4202946792,2020,3457,0.0,0.0,0.0,127.8,23.2,0.0
+Chester County,Modena Borough,4202950232,2020,534,0.0,0.0,0.0
+Chester County,New Garden Township,4202953608,2020,12218,409.2,0.0,0.0,492.4,1.6,3.3
+Chester County,Newlin Township,4202953784,2020,1347,519.7,0.0,0.0,548.7,0.0,29.7
+Chester County,New London Township,4202953816,2020,5998,400.1,0.0,0.0,425.5,0.0,0.0
+Chester County,North Coventry Township,4202954936,2020,8011,511.8,12.5,12.5,603.7,10.0,2.5
+Chester County,Oxford Borough,4202957480,2020,5582,89.6,0.0,0.0,191.7,10.9,0.0
+Chester County,Parkesburg Borough,4202958032,2020,3995,50.1,25.0,0.0,143.4,30.7,0.0
+Chester County,Penn Township,4202958808,2020,5547,360.6,0.0,0.0,478.2,10.9,3.6
+Chester County,Pennsbury Township,4202959136,2020,3657,492.2,0.0,0.0,636.2,5.5,16.5
+Chester County,Phoenixville Borough,4202960120,2020,17010,117.6,5.9,11.8,211.9,28.4,8.3
+Chester County,Pocopson Township,4202961800,2020,4796,104.3,0.0,20.9,373.0,0.0,12.4
+Chester County,Sadsbury Township,4202967080,2020,4128,1065.9,0.0,0.0,786.4,4.9,4.9
+Chester County,Schuylkill Township,4202968288,2020,8620,232.0,0.0,0.0,397.3,9.3,0.0
+Chester County,South Coatesville Borough,4202972072,2020,1461,958.2,68.4,68.4,812.4,110.2,13.8
+Chester County,South Coventry Township,4202972088,2020,2643,567.5,0.0,0.0,796.1,0.0,0.0
+Chester County,Spring City Borough,4202972920,2020,3306,272.2,60.5,30.2,169.3,18.1,6.0
+Chester County,Thornbury Township,4202976568,2020,3137,223.1,0.0,0.0,382.2,6.4,6.4
+Chester County,Tredyffrin Township,4202977344,2020,29616,411.9,16.9,10.1,589.8,22.4,2.0
+Chester County,Upper Oxford Township,4202979208,2020,2538,630.4,0.0,0.0,1019.0,23.7,7.9
+Chester County,Upper Uwchlan Township,4202979352,2020,11866,134.8,0.0,0.0,312.0,1.7,3.4
+Chester County,Uwchlan Township,4202979480,2020,18863,217.4,5.3,5.3,318.8,5.3,2.1
+Chester County,Valley Township,4202979544,2020,7781,784.0,0.0,25.7,615.7,5.2,7.8
+Chester County,Wallace Township,4202980616,2020,3675,544.2,27.2,0.0,571.1,10.9,0.0
+Chester County,Warwick Township,4202981160,2020,2546,746.3,0.0,0.0,510.2,0.0,0.0
+Chester County,West Bradford Township,4202982544,2020,13427,297.9,7.4,7.4,355.7,9.1,3.0
+Chester County,West Brandywine Township,4202982576,2020,7496,240.1,0.0,0.0,492.4,2.7,0.0
+Chester County,West Caln Township,4202982664,2020,9115,274.3,11.0,0.0,316.5,4.4,0.0
+Chester County,West Chester Borough,4202982704,2020,20131,243.4,29.8,0.0,288.7,59.9,11.0
+Chester County,West Fallowfield Township,4202982936,2020,2592,424.4,0.0,0.0,686.4,30.8,0.0
+Chester County,West Goshen Township,4202983080,2020,22993,347.9,8.7,8.7,529.5,14.8,7.8
+Chester County,West Grove Borough,4202983104,2020,2844,105.5,0.0,0.0,119.1,7.0,0.0
+Chester County,West Marlborough Township,4202983464,2020,815,1717.8,0.0,0.0,2204.3,0.0,49.0
+Chester County,West Nantmeal Township,4202983664,2020,2218,586.1,0.0,0.0,896.4,0.0,0.0
+Chester County,West Nottingham Township,4202983712,2020,2710,996.3,36.9,0.0,663.9,7.4,0.0
+Chester County,West Pikeland Township,4202983832,2020,4073,687.5,0.0,0.0,526.0,9.8,0.0
+Chester County,West Sadsbury Township,4202983968,2020,2503,1238.5,0.0,0.0,1221.7,8.0,8.0
+Chester County,Westtown Township,4202984104,2020,11023,199.6,0.0,0.0,356.8,7.3,0.0
+Chester County,West Vincent Township,4202984160,2020,6514,122.8,0.0,15.4,291.3,0.0,6.9
+Chester County,West Whiteland Township,4202984192,2020,20652,426.1,9.7,4.8,608.1,10.2,2.0
+Chester County,Willistown Township,4202985352,2020,11009,145.3,0.0,18.2,393.7,10.9,5.5
+Delaware County,Aldan Borough,4204500676,2020,4160,745.2,0.0,0.0,955.4,57.6,4.8
+Delaware County,Aston Township,4204503336,2020,16741,262.8,0.0,0.0,322.7,8.4,1.2
+Delaware County,Bethel Township,4204506024,2020,9283,269.3,0.0,0.0,329.9,2.2,0.0
+Delaware County,Brookhaven Borough,4204509080,2020,8049,646.0,0.0,0.0,621.0,12.4,2.5
+Delaware County,Chadds Ford Township,4204512442,2020,3727,751.3,0.0,0.0,1503.9,16.1,10.7
+Delaware County,Chester City,4204513208,2020,33965,1333.7,70.7,5.9,924.4,52.4,10.6
+Delaware County,Chester Township,4204513212,2020,4073,1031.2,24.6,0.0,884.0,34.4,0.0
+Delaware County,Chester Heights Borough,4204513232,2020,2747,400.4,0.0,0.0,829.1,7.4,0.0
+Delaware County,Clifton Heights Borough,4204514264,2020,6708,462.1,104.4,29.8,421.4,77.7,9.0
+Delaware County,Collingdale Borough,4204515232,2020,8794,1023.4,34.1,22.7,659.3,38.6,11.4
+Delaware County,Colwyn Borough,4204515432,2020,2555,195.7,39.1,0.0
+Delaware County,Concord Township,4204515488,2020,17910,586.3,5.6,0.0,670.2,5.6,0.0
+Delaware County,Darby Borough,4204518152,2020,10660,656.7,28.1,0.0,387.2,54.3,3.7
+Delaware County,Darby Township,4204518160,2020,9282,53.9,0.0,0.0,129.3,6.5,0.0
+Delaware County,East Lansdowne Borough,4204521384,2020,2671,37.4,0.0,0.0
+Delaware County,Eddystone Borough,4204522296,2020,2412,414.6,41.5,0.0,736.6,33.1,0.0
+Delaware County,Edgmont Township,4204522584,2020,4128,557.2,0.0,0.0,732.0,14.6,4.9
+Delaware County,Folcroft Borough,4204526408,2020,6638,210.9,30.1,15.1,235.0,24.1,6.0
+Delaware County,Glenolden Borough,4204529720,2020,7164,781.7,69.8,0.0,757.8,58.7,0.0
+Delaware County,Haverford Township,4204533144,2020,49478,371.9,26.3,20.2,392.3,25.5,11.7
+Delaware County,Lansdowne Borough,4204541440,2020,10647,892.3,65.7,9.4,852.5,60.1,13.1
+Delaware County,Lower Chichester Township,4204544888,2020,3473,777.4,28.8,0.0,535.4,11.5,5.8
+Delaware County,Marcus Hook Borough,4204547344,2020,2402,458.0,0.0,0.0,449.7,66.6,0.0
+Delaware County,Marple Township,4204547616,2020,23888,573.5,4.2,0.0,587.9,11.7,0.8
+Delaware County,Media Borough,4204548480,2020,5670,211.6,70.5,17.6,508.6,78.8,10.7
+Delaware County,Middletown Township,4204549136,2020,16036,467.7,6.2,12.5,742.5,16.2,7.5
+Delaware County,Millbourne Borough,4204549504,2020,1160,258.6,0.0,86.2,259.6,34.6,17.3
+Delaware County,Morton Borough,4204551176,2020,2670,74.9,0.0,0.0,494.6,45.0,15.0
+Delaware County,Nether Providence Township,4204553104,2020,13762,181.7,7.3,7.3,384.8,4.4,2.9
+Delaware County,Newtown Township,4204554224,2020,14049,213.5,0.0,0.0,444.3,7.4,0.0
+Delaware County,Norwood Borough,4204555664,2020,5897,220.5,0.0,0.0,234.0,17.0,3.4
+Delaware County,Parkside Borough,4204558176,2020,2330,171.7,0.0,0.0,111.8,8.6,0.0
+Delaware County,Prospect Park Borough,4204562792,2020,6477,447.7,15.4,0.0,271.0,6.2,0.0
+Delaware County,Radnor Township,4204563264,2020,31868,241.6,6.3,0.0,394.9,17.6,3.1
+Delaware County,Ridley Township,4204564800,2020,31205,573.6,19.2,9.6,579.5,33.4,6.4
+Delaware County,Ridley Park Borough,4204564832,2020,7060,637.4,28.3,14.2,603.5,22.7,2.8
+Delaware County,Rose Valley Borough,4204566192,2020,948,0.0,0.0,0.0,232.0,21.1,0.0
+Delaware County,Rutledge Borough,4204566928,2020,799,0.0,0.0,0.0,150.0,0.0,0.0
+Delaware County,Sharon Hill Borough,4204569752,2020,5692,456.8,70.3,35.1,620.9,105.2,21.0
+Delaware County,Springfield Township,4204573032,2020,24247,515.5,8.2,12.4,819.4,29.7,8.2
+Delaware County,Swarthmore Borough,4204575648,2020,6346,267.9,15.8,15.8,379.6,19.0,9.5
+Delaware County,Thornbury Township,4204576576,2020,7730,245.8,12.9,0.0,321.9,7.8,5.2
+Delaware County,Tinicum Township,4204576792,2020,4111,2821.7,0.0,0.0,3113.9,39.0,4.9
+Delaware County,Trainer Borough,4204577288,2020,1836,326.8,54.5,0.0
+Delaware County,Upland Borough,4204578712,2020,3325,360.9,0.0,0.0,468.8,18.0,6.0
+Delaware County,Upper Chichester Township,4204578776,2020,16963,1002.2,17.7,5.9,1068.6,30.7,7.1
+Delaware County,Upper Darby Township,4204579000,2020,82966,429.1,43.4,6.0,465.6,65.6,10.1
+Delaware County,Upper Providence Township,4204579248,2020,10444,354.3,9.6,0.0,471.9,7.7,0.0
+Delaware County,Yeadon Borough,4204586968,2020,11464,549.5,0.0,0.0,650.9,40.0,3.5
+Montgomery County,Abington Township,4209100156,2020,55390,496.5,32.5,12.6,623.1,37.9,10.8
+Montgomery County,Ambler Borough,4209102264,2020,6482,61.7,0.0,0.0,123.3,12.3,3.1
+Montgomery County,Bridgeport Borough,4209108568,2020,4570,153.2,21.9,0.0,197.2,13.1,8.8
+Montgomery County,Bryn Athyn Borough,4209109696,2020,1403,712.8,0.0,0.0,570.9,14.3,0.0
+Montgomery County,Cheltenham Township,4209112968,2020,37106,700.7,32.3,2.7,828.3,51.2,4.3
+Montgomery County,Collegeville Borough,4209115192,2020,5193,385.1,0.0,19.3,346.0,11.5,7.7
+Montgomery County,Conshohocken Borough,4209115848,2020,8053,173.8,0.0,0.0,204.3,27.4,2.5
+Montgomery County,Douglass Township,4209119672,2020,10554,426.4,0.0,0.0,447.3,19.0,1.9
+Montgomery County,East Greenville Borough,4209121200,2020,2940,68.0,0.0,0.0,224.2,20.4,13.6
+Montgomery County,East Norriton Township,4209121600,2020,14264,427.7,35.1,7.0,459.8,19.9,7.1
+Montgomery County,Franconia Township,4209127280,2020,13397,373.2,0.0,0.0,701.1,13.5,7.5
+Montgomery County,Green Lane Borough,4209131088,2020,506,1185.8,0.0,0.0,1103.7,0.0,0.0
+Montgomery County,Hatboro Borough,4209133088,2020,7501,333.3,26.7,13.3,410.0,24.1,8.0
+Montgomery County,Hatfield Borough,4209133112,2020,3327,0.0,0.0,0.0,84.3,18.1,6.0
+Montgomery County,Hatfield Township,4209133120,2020,17868,537.3,22.4,16.8,629.5,9.0,13.5
+Montgomery County,Horsham Township,4209135808,2020,26466,313.6,15.1,0.0,534.9,18.1,4.5
+Montgomery County,Jenkintown Borough,4209138000,2020,4420,271.5,22.6,0.0,475.4,72.4,0.0
+Montgomery County,Lansdale Borough,4209141432,2020,17070,322.2,35.1,0.0,546.3,60.3,13.0
+Montgomery County,Limerick Township,4209143312,2020,19355,640.7,5.2,5.2,823.6,12.5,2.1
+Montgomery County,Lower Frederick Township,4209144912,2020,4928,446.4,20.3,20.3,443.8,8.1,8.1
+Montgomery County,Lower Gwynedd Township,4209144920,2020,11485,531.1,43.5,0.0,690.7,24.4,3.5
+Montgomery County,Lower Merion Township,4209144976,2020,60400,807.9,51.3,11.6,1070.1,61.4,14.4
+Montgomery County,Lower Moreland Township,4209145008,2020,13110,625.5,7.6,0.0,1039.8,9.1,9.1
+Montgomery County,Lower Pottsgrove Township,4209145072,2020,12143,420.0,0.0,8.2,615.2,21.4,6.6
+Montgomery County,Lower Providence Township,4209145080,2020,26880,420.4,18.6,3.7,566.5,12.8,3.8
+Montgomery County,Lower Salford Township,4209145096,2020,15534,263.9,6.4,0.0,367.9,3.9,2.6
+Montgomery County,Marlborough Township,4209147592,2020,3388,383.7,0.0,0.0,510.7,0.0,0.0
+Montgomery County,Montgomery Township,4209150640,2020,26167,420.4,11.5,11.5,497.4,17.6,7.7
+Montgomery County,New Hanover Township,4209153664,2020,13225,294.9,7.6,0.0,397.4,4.6,0.0
+Montgomery County,Norristown Borough,4209154656,2020,34334,667.0,64.1,8.7,726.8,91.3,15.1
+Montgomery County,North Wales Borough,4209155512,2020,3265,183.8,30.6,30.6,281.7,42.9,12.2
+Montgomery County,Pennsburg Borough,4209159120,2020,3848,207.9,26.0,0.0,316.5,15.6,15.6
+Montgomery County,Perkiomen Township,4209159392,2020,9135,175.2,0.0,0.0,303.7,2.2,6.6
+Montgomery County,Plymouth Township,4209161664,2020,17637,1156.7,22.7,17.0,1074.2,20.5,10.2
+Montgomery County,Pottstown Borough,4209162416,2020,22604,650.3,115.0,22.1,794.5,73.4,26.5
+Montgomery County,Red Hill Borough,4209163808,2020,2361,296.5,0.0,0.0,346.2,25.3,16.9
+Montgomery County,Rockledge Borough,4209165568,2020,2530,158.1,0.0,0.0,260.1,39.4,0.0
+Montgomery County,Royersford Borough,4209166576,2020,4755,252.4,63.1,0.0,201.5,25.2,4.2
+Montgomery County,Salford Township,4209167528,2020,2949,576.5,0.0,0.0,1027.3,13.6,0.0
+Montgomery County,Schwenksville Borough,4209168328,2020,1382,144.7,0.0,0.0,405.0,0.0,0.0
+Montgomery County,Skippack Township,4209171016,2020,14204,281.6,0.0,7.0,339.6,5.6,7.0
+Montgomery County,Souderton Borough,4209171856,2020,7082,254.2,28.2,28.2,217.8,28.7,14.3
+Montgomery County,Springfield Township,4209173088,2020,19803,242.4,35.3,0.0,360.8,21.3,2.0
+Montgomery County,Telford Borough (part) *,4209176304,2020,2689,260.3,0.0,0.0,156.9,0.0,0.0
+Montgomery County,Towamencin Township,4209177152,2020,18446,525.9,21.7,0.0,697.1,15.2,10.9
+Montgomery County,Trappe Borough,4209177304,2020,3777,264.8,0.0,0.0,571.6,5.4,5.4
+Montgomery County,Upper Dublin Township,4209179008,2020,26545,448.3,0.0,11.3,702.4,8.3,5.3
+Montgomery County,Upper Frederick Township,4209179040,2020,3660,218.6,0.0,0.0,424.3,5.5,5.5
+Montgomery County,Upper Gwynedd Township,4209179056,2020,15802,246.8,6.3,25.3,323.9,8.9,6.3
+Montgomery County,Upper Hanover Township,4209179064,2020,8038,497.6,0.0,0.0,555.3,5.1,0.0
+Montgomery County,Upper Merion Township,4209179136,2020,34161,813.8,11.7,0.0,1020.0,21.3,2.5
+Montgomery County,Upper Moreland Township,4209179176,2020,24715,594.8,16.2,4.0,708.7,16.5,4.1
+Montgomery County,Upper Pottsgrove Township,4209179240,2020,5756,347.5,0.0,0.0,440.5,3.5,7.0
+Montgomery County,Upper Providence Township,4209179256,2020,24376,451.3,0.0,4.1,666.7,19.1,0.8
+Montgomery County,Upper Salford Township,4209179280,2020,3364,832.3,0.0,89.2,1136.4,0.0,17.8
+Montgomery County,West Conshohocken Borough,4209182736,2020,1432,7053.1,0.0,0.0,6716.5,56.4,0.0
+Montgomery County,West Norriton Township,4209183696,2020,15629,703.8,19.2,6.4,856.7,24.3,6.4
+Montgomery County,West Pottsgrove Township,4209183912,2020,3838,286.6,52.1,0.0,327.6,26.0,10.4
+Montgomery County,Whitemarsh Township,4209184624,2020,18332,512.8,5.5,5.5,804.3,18.8,6.6
+Montgomery County,Whitpain Township,4209184888,2020,19568,250.4,0.0,0.0,422.7,6.2,5.2
+Montgomery County,Worcester Township,4209186496,2020,10436,431.2,9.6,9.6,808.6,9.6,5.8
+Philadelphia County,North Philadelphia,4210160101,2020,137487,837.2,120.0,20.4,935.0,155.2,26.6
+Philadelphia County,Lower Southwest Philadelphia,4210160102,2020,42693,1056.4,77.3,16.4,1201.8,98.7,16.9
+Philadelphia County,Central Philadelphia,4210160103,2020,138192,608.6,74.5,33.3,802.3,153.3,57.6
+Philadelphia County,North Delaware Philadelphia,4210160104,2020,98610,567.9,53.7,11.2,752.8,75.9,14.7
+Philadelphia County,Lower South Philadelphia,4210160105,2020,6158,3881.1,97.4,16.2,4466.7,116.4,14.1
+Philadelphia County,West Park Philadelphia,4210160106,2020,44937,1395.3,57.9,8.9,1462.7,94.6,23.8
+Philadelphia County,Lower North Philadelphia,4210160107,2020,95194,641.8,88.2,15.8,745.3,137.3,37.5
+Philadelphia County,Lower Northwest Philadelphia,4210160108,2020,53721,258.7,29.8,7.4,531.0,50.4,13.1
+Philadelphia County,River Wards,4210160109,2020,71431,770.0,65.8,12.6,917.0,108.9,20.4
+Philadelphia County,University/Southwest,4210160110,2020,82994,625.3,65.1,33.7,832.1,112.1,48.3
+Philadelphia County,West Philadelphia,4210160111,2020,114249,525.2,71.8,12.3,556.6,108.1,22.7
+Philadelphia County,South Philadelphia,4210160112,2020,135582,292.1,50.2,23.6,365.8,77.6,33.1
+Philadelphia County,Upper Far Northeast Philadelphia,4210160113,2020,68462,318.4,39.4,5.8,417.2,40.3,6.1
+Philadelphia County,Lower Northeast Philadelphia,4210160114,2020,107763,427.8,51.0,4.6,621.0,84.4,11.3
+Philadelphia County,Upper North Philadelphia,4210160115,2020,148120,493.5,63.5,6.1,544.9,90.3,9.6
+Philadelphia County,Lower Far Northeast Philadelphia,4210160116,2020,72861,304.7,24.7,8.2,443.0,35.7,7.2
+Philadelphia County,Upper Northwest Philadelphia,4210160117,2020,86623,414.4,58.9,4.6,492.4,84.0,8.3
+Philadelphia County,Central Northeast Philadelphia,4210160118,2020,85084,291.5,49.4,4.7,460.8,58.5,6.8
