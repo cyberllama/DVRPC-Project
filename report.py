@@ -1,16 +1,15 @@
 from columns import MCDPopColumns, OutputColumns, MCDCrashColumns
 from datetime import datetime
+from pathlib import Path
 import sqlite3
 import copy
 import csv
 
-connection = sqlite3.connect('./db/mcd_crashes.db')
-cursor = connection.cursor()
-
 MIN_YEAR = 2015
 MAX_YEAR = 2025
 YEAR_RANGE = range(MIN_YEAR, MAX_YEAR)
-EMPTY_YEAR_DICT = {key: None for key in YEAR_RANGE}    
+EMPTY_YEAR_DICT = {key: None for key in YEAR_RANGE} 
+REPORTS_ROOT = Path("./generated_reports")
 
 class GenerateReport():
     mcd_pop_by_year = {}
@@ -19,6 +18,7 @@ class GenerateReport():
     max_year_input = None 
 
     def exec(self, min_year_input, max_year_input):
+        self._init_folders()
         self.min_year_input = int(min_year_input)
         self.max_year_input = int(max_year_input)
         self._get_mcd_population_forecasts()
@@ -28,8 +28,13 @@ class GenerateReport():
         output = self._return_rows_within_year_range(full_rows)
         file_name = self._write_as_csv(output)
         return file_name
+    
+    def _init_folders(self):
+        REPORTS_ROOT.mkdir(exist_ok=True)
 
     def _get_mcd_population_forecasts(self) -> None:
+        connection = sqlite3.connect('./db/mcd_crashes.db')
+        cursor = connection.cursor()
         query = "SELECT mun_dist_id, pop_2015, pop_2019, pop_2020, pop_2025 FROM mcd_population"
         rows = cursor.execute(query).fetchall()
         
@@ -69,6 +74,8 @@ class GenerateReport():
         return year_pop_dict
     
     def _get_crash_summaries(self):
+        connection = sqlite3.connect('./db/mcd_crashes.db')
+        cursor = connection.cursor()
         min_year_5yr_minimum = self.min_year_input - 4
         crash_query_min_year = MIN_YEAR if min_year_5yr_minimum < MIN_YEAR else min_year_5yr_minimum
         query = f"SELECT County, MCD_Name, GEOID10, Crash_Year, (TOTAL_KILLED + TOTAL_INJURED) as TOTAL_KSI, PEDESTRIAN_COUNT, BICYCLE_COUNT FROM mcd_crash WHERE Crash_Year >= {crash_query_min_year} AND CRASH_YEAR <= {self.max_year_input} ORDER BY Crash_Year DESC"
