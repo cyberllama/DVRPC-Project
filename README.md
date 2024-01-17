@@ -102,6 +102,7 @@ One other note, in the dataset provided the following fields are listed
 | TOTAL KILLED  | Total number of people killed                      |
 | TOTAL INJURED | Total number of people injured                     |
 | TOTAL PERSONS | Total number of people killed or seriously injured |
+
 The sum of total killed and total injured has a completely different value than total persons. I used total persons for the report, which has a far higher value, as I assumed that total injured might have to do with lower severity injuries. I tested doing reports on total persons, and using the sum, and found similar trends (but vastly different rates). I just thought I would make a note of it as it seems a little misleading in the original dataset.
 
 Thank you for reading this long report, it was a super interesting challenge and maybe I did a little more than I needed to, but I had fun doing it. I chose not to excessively comment the code, as the functions are fairly self descriptive. The exec function in db.py and report.py outlines the order in which functions are executed. There are some fairly simple class summaries and a step summary in cli.py. Please come with any specific questions about the code and my development process. Looking forward to discussing my work with you soon! 
