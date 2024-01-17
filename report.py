@@ -82,7 +82,7 @@ class GenerateReport():
         cursor = connection.cursor()
         min_year_5yr_minimum = self.min_year_input - 4
         crash_query_min_year = MIN_YEAR if min_year_5yr_minimum < MIN_YEAR else min_year_5yr_minimum
-        query = f"SELECT County, MCD_Name, GEOID10, Crash_Year, (TOTAL_KILLED + TOTAL_INJURED), PEDESTRIAN_COUNT, BICYCLE_COUNT FROM mcd_crash WHERE Crash_Year >= {crash_query_min_year} AND CRASH_YEAR <= {self.max_year_input} ORDER BY Crash_Year DESC"
+        query = f"SELECT County, MCD_Name, GEOID10, Crash_Year, TOTAL_PERSONS, PEDESTRIAN_COUNT, BICYCLE_COUNT FROM mcd_crash WHERE Crash_Year >= {crash_query_min_year} AND CRASH_YEAR <= {self.max_year_input} ORDER BY Crash_Year DESC"
         rows = cursor.execute(query).fetchall()
         return rows
     
