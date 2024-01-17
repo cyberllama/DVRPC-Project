@@ -12,6 +12,10 @@ EMPTY_YEAR_DICT = {key: None for key in YEAR_RANGE}
 REPORTS_ROOT = Path("./generated_reports")
 
 class GenerateReport():
+    """
+    Generates a CSV report of crashes per capita across all municipality in 9 county region. Creates additional columns for 
+    total, pedestrian, and cyclists killed and severely injured per capita, single year and 5yr average 
+    """
     mcd_pop_by_year = {}
     mcd_totals_by_year = {}
     min_year_input = None
@@ -78,7 +82,7 @@ class GenerateReport():
         cursor = connection.cursor()
         min_year_5yr_minimum = self.min_year_input - 4
         crash_query_min_year = MIN_YEAR if min_year_5yr_minimum < MIN_YEAR else min_year_5yr_minimum
-        query = f"SELECT County, MCD_Name, GEOID10, Crash_Year, (TOTAL_KILLED + TOTAL_INJURED) as TOTAL_KSI, PEDESTRIAN_COUNT, BICYCLE_COUNT FROM mcd_crash WHERE Crash_Year >= {crash_query_min_year} AND CRASH_YEAR <= {self.max_year_input} ORDER BY Crash_Year DESC"
+        query = f"SELECT County, MCD_Name, GEOID10, Crash_Year, (TOTAL_KILLED + TOTAL_INJURED), PEDESTRIAN_COUNT, BICYCLE_COUNT FROM mcd_crash WHERE Crash_Year >= {crash_query_min_year} AND CRASH_YEAR <= {self.max_year_input} ORDER BY Crash_Year DESC"
         rows = cursor.execute(query).fetchall()
         return rows
     

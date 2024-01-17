@@ -18,13 +18,11 @@ POPULATION_TABLE_NAME = "mcd_population"
 
 class GenerateDatabase():
     """
-    Create and populate a local SQL database with crash data fetched from
-    PennDOT's website.
+    Creates and populate a local SQL database with crash and poulation data from DVRPC's data catalogue
     """
     def exec(self):
         self._init_folders()
         self._download_data()
-        # self._unzip_data()
         self._load_data_into_db()
         self._print_table_names()
 

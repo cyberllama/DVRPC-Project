@@ -5,6 +5,11 @@ from report import GenerateReport
 
 MIN_YEAR = 2015
 
+#1: Creates database
+#2: Gets max available crash year
+#3: Prompts the user for year range
+#4: Generates report
+
 def main():
     initialize_db()
     max_year = get_max_year()
@@ -26,7 +31,6 @@ def get_max_year():
     click.echo(click.style(f"Most recent year: {max_year}", fg='cyan'))
     return max_year
 
-#TODO: With more time working on this project, I would validate these inputs
 def get_year_range(max_year):
     click.echo(click.style(f"Enter a year range between 2015 and {max_year}...", fg='cyan'))
     min_year_input = click.prompt(click.style("MIN YEAR", fg='magenta'))
@@ -37,4 +41,4 @@ def generate_report(min_year, max_year):
     click.echo(click.style(f"Generating report between {min_year} and {max_year}...", fg='cyan'))
     report = GenerateReport()
     file_name = report.exec(min_year, max_year)
-    click.echo(click.style(f"Report succesfully generated and outputed to generated_reports/{file_name}", fg='green'))
+    click.echo(click.style(f"Report succesfully generated and outputed to {file_name}", fg='green'))
